@@ -1,0 +1,5 @@
+Filter,Image,Kernel_Size,Sigma
+Gaussian_fixS,personal-1,3,1.0
+Gaussian_fixS,personal-1,21,1.0
+Gaussian_fixS,personal-2,3,3.0
+Gaussian_fixS,personal-2,21,3.0

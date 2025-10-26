@@ -1,0 +1,5 @@
+Filter,Image,Kernel_Size,Sigma
+Gaussian_fixS,checkerboard,5,5.0
+Gaussian_fixS,checkerboard,15,5.0
+Gaussian_fixS,astronaut,7,7.0
+Gaussian_fixS,astronaut,21,7.0

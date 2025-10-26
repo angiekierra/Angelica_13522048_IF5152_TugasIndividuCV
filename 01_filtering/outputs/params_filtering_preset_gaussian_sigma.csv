@@ -1,0 +1,5 @@
+Filter,Image,Kernel_Size,Sigma
+Gaussian_fixK,camera,5,2.0
+Gaussian_fixK,camera,5,10.0
+Gaussian_fixK,coins,7,0.5
+Gaussian_fixK,coins,7,5.0

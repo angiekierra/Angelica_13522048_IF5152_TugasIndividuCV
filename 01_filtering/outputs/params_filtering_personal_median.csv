@@ -1,0 +1,7 @@
+Filter,Image,Kernel_Size,Sigma
+Median,personal-1,5,-
+Median,personal-1,13,-
+Median,personal-1,29,-
+Median,personal-2,5,-
+Median,personal-2,13,-
+Median,personal-2,29,-

@@ -1,0 +1,4 @@
+Filter,Image,Kernel_Size,Sigma
+Median,camera,3,-
+Median,camera,15,-
+Median,camera,21,-
