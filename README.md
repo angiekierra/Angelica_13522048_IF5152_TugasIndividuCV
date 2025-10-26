@@ -158,3 +158,6 @@ File `05_laporan.pdf` berisi:
 * Eksperimen interaktif melalui input terminal
 * Struktur modular: setiap fitur dapat dijalankan secara independen
 
+---
+**Catatan:** Apabila anda kendala silakan unduh .zip di [Link Google Drive Tugas Individu IF5152](https://drive.google.com/drive/folders/1Srm15NpJknNyE6518kptucvf4o5hU8jU?usp=sharing)
+.
